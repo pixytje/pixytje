@@ -32,4 +32,7 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
+
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 </div>
