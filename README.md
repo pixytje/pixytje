@@ -2,7 +2,7 @@
 
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   
-  Hey I am Pixy
+  Hi I'm Pixy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
