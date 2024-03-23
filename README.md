@@ -21,11 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Frostykerel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostykerel&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Frostykerel&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🎶Spotify List
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=o476u2r8doea92tgkd5h67fra)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
