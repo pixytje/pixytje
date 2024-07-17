@@ -2,7 +2,7 @@
 
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   
-  Hi I'm Pixy
+  Hi I'm Rick
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,7 +14,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Send me a DM on Discord! ".yixp"
+  Send me a DM on Discord! "rickkerel"
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
